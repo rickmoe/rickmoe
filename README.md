@@ -15,4 +15,4 @@
     - Potentially anywhere my skill set would be useful
 - 📫 How to reach me
     - LinkedIn: https://www.linkedin.com/in/rmoe
-    - Email: Cosmic.Star@comcast.net
+    - Email: rmoe02@gmail.com
