@@ -4,10 +4,11 @@
     - Software Engineering
     - Mathematics
     - Psychology
+    - Data Science
     - Artificial Intelligence
     - Self-Improvement
 - 🌱 I’m currently learning
-    - Computer Science, Mathematics, and Psychology @ University of Wisconsin
+    - Computer Science, Mathematics, Psychology, and Data Science @ University of Wisconsin
     - Most likely some software project on my own (feel free to ask)
 - 💞️ I’m looking to work with
     - Potential internship opportunities (preferably in Summer)
