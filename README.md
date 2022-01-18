@@ -13,5 +13,5 @@
     - Employers interested in recruiting for future positions related to my interests
     - Anywhere else that my skill set would be useful
 - 📫 How to reach me
-    - Email: rmoe02@gmail.com (preferable)
+    - Email: rmoe02@gmail.com (preferred)
     - LinkedIn: https://www.linkedin.com/in/rmoe
